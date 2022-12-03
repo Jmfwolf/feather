@@ -4,10 +4,10 @@
 Hosting on SBCs in a manner that a script (ducky?) can be run during install and setup can be largely automated.
 
 ## Technologies
-OPENAPI 3.0.0   *Specification*
-https://goa.design *Generation & Design*
-https://gohugo.io *Static Site generation*
-https://bulma.io  *CSS*
+- OPENAPI 3.0.0   **Specification**
+- https://goa.design **Generation & Design**
+- https://gohugo.io **Static Content Generation**
+- https://bulma.io  **CSS**
 
 ## Rationale
 Go is faster than Javascript and requires fewer resources than other scripting languages.
