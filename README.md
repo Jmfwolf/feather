@@ -1,7 +1,7 @@
-# millionAntHost
+# Feather
 
 ## Overview
-Hosting on SBCs in a manner that a script (ducky?) can be run during install and setup can be largely automated.
+Light-weight CSS based, automated static site content generator
 
 ### Content
-I think the main site should be largely static generation such as mustache templates with Jekyll or sphinx
+Hugo Framework to deploy github.io pages, provide hugo themes in css
